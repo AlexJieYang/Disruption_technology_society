@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the associated research and this repository when using the code."
+title: "Are disruptive papers more likely to impact technology and society?"
+type: software
+authors:
+  - family-names: Yang
+    given-names: Alex J.
+  - family-names: Yan
+    given-names: Xiaohui
+  - family-names: Hu
+    given-names: Haotian
+  - family-names: Hu
+    given-names: Hanlin
+  - family-names: Kong
+    given-names: Jia
+  - family-names: Deng
+    given-names: Sanhong
+repository-code: "https://github.com/AlexJieYang/Disruption_technology_society"
