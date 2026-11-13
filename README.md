@@ -5,6 +5,8 @@ society?**, by Alex J. Yang, Xiaohui Yan, Haotian Hu, Hanlin Hu, Jia Kong, and
 Sanhong Deng. The scripts relate disruption measures to patent, clinical-trial,
 news, and tweet citations.
 
+Author: Alex J. Yang · [Official Nanjing University profile](https://im.nju.edu.cn/info/1103/53391.htm)
+
 ## Workflow
 
 Set `data_dir` for the paper-level analysis and field lookup tables, and
